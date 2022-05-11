@@ -4,7 +4,7 @@
 This is an intentionally simple gem to facilitate installation of source files required
 for basic authentication controller and model functionality in a Rails app.
 
-I packaaged this into a gem to simplify usage in [Rails application templates](https://guides.rubyonrails.org/rails_application_templates.html)
+I packaged this into a gem to simplify usage in [Rails application templates](https://guides.rubyonrails.org/rails_application_templates.html)
 
 ## Usage:
 
