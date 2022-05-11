@@ -12,7 +12,7 @@ I packaged this into a gem to simplify usage in [Rails application templates](ht
 > bin/rails zauth:install
 ```
 
-It install 2 files:
+It installs 2 files:
 
   1. A module named `AuthenticatedModel` in `app/models/concerns/authenticated_model.rb` which provides methods for a `User` model to be authenticated by password.
 
